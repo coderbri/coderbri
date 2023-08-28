@@ -9,11 +9,13 @@
 
 <img alt="pfp" src="https://github.com/coderbri/coderbri/blob/b3adb2270870f68582e797f68025ad7d7cd4bc52/albedo-face-gif.gif" height="175px" align="right" />
 
-## About Me
+### About Me
 
 Welcome to my GitHub profile! I am a coding bootcamp student on my journey to becoming a Full Stack Developer. I am passionate about [mention your interests, e.g., web development, problem-solving, building applications]. Here's a bit about me:
 
 - 🌱 Currently learning: Python, MERN Stack (MongoDB, Express.js, React, Node.js), and Java.
+
+---
 
 ### My Tech Stack
 
@@ -22,11 +24,20 @@ Welcome to my GitHub profile! I am a coding bootcamp student on my journey to be
 - Backend: Node.js, Express.js
 - Database: MongoDB, SQL
 
-### My Tools
+---
 
-![skills](https://skillicons.dev/icons?i=vscode,bash,github,git,html,css,javascript,py,flask,django,react,express,mongodb,nodejs,tailwind,stackoverflow,java,spring,maven,postman,bootstrap)
 
-<div style="display:flex; align-items:center; justify-content: between;">
+<div align="center">
+
+<h3>Languages - Frameworks - Tools</h3>
+	
+![skills](https://skillicons.dev/icons?i=vscode,bash,github,git,postman,stackoverflow,tailwind,bootstrap)
+![skills](https://skillicons.dev/icons?i=html,css,javascript,py,flask,django,react,express,mongodb,nodejs,java,spring,maven)
+
+</div>
+
+
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=coderbri&theme=nord&show_icons=true" alt="coderbri's GitHub stats" style="width: 300px; height: auto;">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderbri&layout=compact&theme=nord" alt="coderbri's Top Langs" style="width: 300px; height: auto;">
 </div>
