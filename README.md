@@ -9,13 +9,9 @@
 
 <img alt="pfp" src="https://github.com/coderbri/coderbri/blob/b3adb2270870f68582e797f68025ad7d7cd4bc52/albedo-face-gif.gif" height="175px" align="right" />
 
-### About Me
+## About Me
 
-Welcome to my GitHub profile! I am a coding bootcamp student on my journey to becoming a Full Stack Developer. I am passionate about [mention your interests, e.g., web development, problem-solving, building applications]. Here's a bit about me:
-
-- 🌱 Currently learning: Python, MERN Stack (MongoDB, Express.js, React, Node.js), and Java.
-
----
+Welcome to my GitHub profile! I am a coding bootcamp student on my journey to becoming a Full Stack Developer. I am passionate about web development, problem-solving, building applications. Here's a bit about me:
 
 ### My Tech Stack
 
