@@ -7,11 +7,11 @@
 </p>
 
 
-<img alt="pfp" src="https://github.com/coderbri/coderbri/blob/b3adb2270870f68582e797f68025ad7d7cd4bc52/albedo-face-gif.gif" height="175px" align="right" />
+<img alt="pfp" src="https://github.com/coderbri/coderbri/blob/b3adb2270870f68582e797f68025ad7d7cd4bc52/albedo-face-gif.gif" height="175px" width="175px" align="right" />
 
 ## About Me
 
-Welcome to my GitHub profile! I am a coding bootcamp student on my journey to becoming a Full Stack Developer. I am passionate about web development, problem-solving, building applications. Here's a bit about me:
+Welcome to my GitHub profile! I am a coding boot camp student on my journey to becoming a Full Stack Developer. I am passionate about web development, problem-solving, and building applications. Here's a bit about me:
 
 ### My Tech Stack
 
