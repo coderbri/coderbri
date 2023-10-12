@@ -6,9 +6,6 @@
 <!-- 	<img alt="Spring Tool Suite 4" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> -->
 </p>
 
-
-<img alt="pfp" src="https://github.com/coderbri/coderbri/blob/b3adb2270870f68582e797f68025ad7d7cd4bc52/albedo-face-gif.gif" height="175px" width="175px" align="right" />
-
 ## About Me
 
 Welcome to my GitHub profile! I am a coding boot camp student on my journey to becoming a Full Stack Developer. I am passionate about web development, problem-solving, and building applications. Here's a bit about me:
