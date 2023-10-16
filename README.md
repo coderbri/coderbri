@@ -1,4 +1,4 @@
-# Hello, I'm Bri 👋
+# Hello, I'm Brittney 👋
 
 <p align="center">
 	<img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
