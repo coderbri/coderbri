@@ -31,8 +31,11 @@ Welcome to my GitHub profile! I am a coding boot camp student on my journey to b
 
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=coderbri&theme=nord&show_icons=true" alt="coderbri's GitHub stats" style="width: 300px; height: auto;">
+<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=coderbri&theme=nord&show_icons=true" alt="coderbri's GitHub stats" style="width: 300px; height: auto;"> -->
+	<img src='https://github-readme-streak-stats.herokuapp.com/?user=coderbri&theme=nord&hide_border=false' style="width: 380px; height: auto;"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderbri&layout=compact&theme=nord" alt="coderbri's Top Langs" style="width: 275px; height: auto;">
+	<!-- Last 30 days of coding... -->
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderbri&theme=nord&bg_color=00000000&point=00000000&hide_border=true&custom_title=last+30+days&area=true" style="width: 700px; height: auto;">
 </div>
 
 
