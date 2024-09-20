@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I am a coding boot camp student on my journey to b
 
 ### My Tech Stack
 
-- Programming Languages: Python | JavaScript | Java | TypeScript
-- Frontend: HTML | CSS | JavaScript | React
-- Backend: Node.js | Express.js | Next.js
-- Database: MongoDB | SQL | NoSQL | PostgreSQL
+- Programming Languages: Python • JavaScript • Java • TypeScript ✦
+- Frontend: HTML • CSS • JavaScript • React ✦
+- Backend: Node.js • Express.js • Next.js ✦
+- Database: MongoDB • SQL • NoSQL • PostgreSQL ✦
 
 ---
 
