@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I am a coding boot camp student on my journey to b
 
 ### My Tech Stack
 
-- Programming Languages: Python • JavaScript • Java • TypeScript ✦
-- Frontend: HTML • CSS • JavaScript • React ✦
-- Backend: Node.js • Express.js • Next.js ✦
-- Database: MongoDB • SQL • NoSQL • PostgreSQL ✦
+- Programming Languages: **Python • JavaScript • Java • TypeScript** ✦
+- Frontend: **HTML • CSS • JavaScript • React** ✦
+- Backend: **Node.js • Express.js • Next.js** ✦
+- Database: **MongoDB • SQL • NoSQL • PostgreSQL** ✦
 
 ---
 
@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I am a coding boot camp student on my journey to b
 
 <h3>Languages - Frameworks - Tools</h3>
 	
-![skills](https://skillicons.dev/icons?i=vscode,bash,github,git,postman,stackoverflow,tailwind,bootstrap)
-![skills](https://skillicons.dev/icons?i=html,css,javascript,py,flask,django,react,express,mongodb,nodejs,java,spring,maven)
+![skills](https://skillicons.dev/icons?i=vscode,bash,github,git,postman,stackoverflow,tailwind,bootstrap,html,css,javascript,typescript)
+![skills](https://skillicons.dev/icons?i=py,flask,django,react,express,mongodb,postgresql,nodejs,nextjs,java,spring,maven)
 
 </div>
 
