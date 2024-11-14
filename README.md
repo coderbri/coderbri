@@ -2,15 +2,15 @@
 
 <p align="center">
 	<img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-<!-- 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> -->
-<!-- 	<img alt="Spring Tool Suite 4" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> -->
+	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+ 	<img alt="Spring Tool Suite 4" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+	<img alt="PyCharm CE" src="https://img.shields.io/badge/PyCharm%20CE-blue?logo=pycharm&logoColor=white" />
 </p>
 
-## About Me
+<!-- ## About Me
+Welcome to my GitHub profile! I am a coding boot camp student on my journey to becoming a Full Stack Developer. I am passionate about web development, problem-solving, and building applications. Here's a bit about me: -->
 
-Welcome to my GitHub profile! I am a coding boot camp student on my journey to becoming a Full Stack Developer. I am passionate about web development, problem-solving, and building applications. Here's a bit about me:
-
-### My Tech Stack
+### My Tech Stacks
 
 - Programming Languages: **Python • JavaScript • Java • TypeScript** ✦
 - Frontend: **HTML • CSS • JavaScript • React** ✦
@@ -31,12 +31,14 @@ Welcome to my GitHub profile! I am a coding boot camp student on my journey to b
 
 
 <div align="center">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=coderbri&theme=nord&show_icons=true" alt="coderbri's GitHub stats" style="width: 300px; height: auto;"> -->
+	<!-- <img src="https://github-readme-stats.vercel.app/api?username=coderbri&theme=nord&show_icons=true" alt="coderbri's GitHub stats" style="width: 300px; height: auto;"> -->
 	<img src='https://github-readme-streak-stats.herokuapp.com/?user=coderbri&theme=nord&hide_border=false' style="width: 380px; height: auto;"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderbri&layout=compact&theme=nord" alt="coderbri's Top Langs" style="width: 275px; height: auto;">
 	<!-- Last 30 days of coding... -->
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderbri&theme=nord&bg_color=00000000&point=00000000&hide_border=true&custom_title=last+30+days&area=true" style="width: 700px; height: auto;">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=coderBri&layout=compact&theme=nord&langs_count=10&custom_title=Total%20coding%20time%20since%20November%202024" style="width: 380px; height: auto;">
 </div>
+
 
 
 <!-- - 👋 Hi, I’m @coderbri -->
