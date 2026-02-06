@@ -1,4 +1,11 @@
-# Hello, I'm Brittney 👋
+<!-- Typing Header Effect -->
+<div align="center">
+	<img
+		src="https://readme-typing-svg.herokuapp.com?font=Jacquard+12&size=30&pause=1000&color=6A85DF&width=435&lines=%E2%9C%A6+Welcome+to+coderBri's+GitHub+%E2%9C%A6" 
+		alt="Typing SVG"
+	/>
+</div>
+
 
 <p align="center">
 	<img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
@@ -8,7 +15,7 @@
 </p>
 
 <!-- ## About Me
-Welcome to my GitHub profile! I am a coding boot camp student on my journey to becoming a Full Stack Developer. I am passionate about web development, problem-solving, and building applications. Here's a bit about me: -->
+Welcome to my GitHub profile! I am a certified Software Developer with a B.S. in Computer Science. I am passionate about web development, problem-solving, and building applications. Here's a bit about me: -->
 
 ### My Tech Stacks
 
